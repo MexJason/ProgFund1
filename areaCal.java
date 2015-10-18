@@ -1,7 +1,3 @@
-//Name: Jason Dubon
-//UFL ID: jasondubon
-//Section: 11H6
-//Project Number: Lab6
 //Program will give you area of circle or rectangle or triangle.
 import java.util.Scanner;
 public class Lab6 {
